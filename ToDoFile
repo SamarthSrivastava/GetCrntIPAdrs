@@ -1,0 +1,3 @@
+- instead of console app which starts at start up of pc, it can be used as windows service
+- instead of sending IP everytime the pc starts, comparing the current IP adress to earlier IP adress which is saved in some file, 
+  if the current IP is different then it file gets overwritten and a mail is sent, else nothing happens
